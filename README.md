@@ -7,9 +7,10 @@ This project was collaboratively developed with my Friend `Zakaria Machmach`
 ## Technologies Used
 - **Backend:**
   - Spring Boot
+    
 - **Database:**
   - MongoDB
-  - 
+    
 ## Getting Started
 1. Clone this repository :
 ```bash
