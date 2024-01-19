@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "65a72cf55fc5e6a030999c81"
+  },
+  "Name": "JAVA",
+  "FieldName": "ISIL",
+  "Desc": "its so hard",
+  "Teacher": "zakaria machmach",
+  "Qnbr": 10,
+  "__v": 0,
+  "PicSrc": "/img/Exams/java.png"
+}]

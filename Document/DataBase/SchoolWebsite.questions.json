@@ -1,0 +1,370 @@
+[{
+  "_id": {
+    "$oid": "65a72cf55fc5e6a030999c83"
+  },
+  "Name": "JAVA",
+  "Duree": 10,
+  "Questions": [
+    {
+      "Text": "What does JVM stand for?",
+      "Responses": [
+        {
+          "Text": "Java Virtual Method",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c85"
+          }
+        },
+        {
+          "Text": "Java Virtual Memory",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c86"
+          }
+        },
+        {
+          "Text": "Java Visual Machine",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c87"
+          }
+        },
+        {
+          "Text": "Java Virtual Machine",
+          "IsCorrect": true,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c88"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65a72cf55fc5e6a030999c84"
+      }
+    },
+    {
+      "Text": "Which keyword is used for inheritance in Java?",
+      "Responses": [
+        {
+          "Text": "extend",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c8a"
+          }
+        },
+        {
+          "Text": "inherits",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c8b"
+          }
+        },
+        {
+          "Text": "inherit",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c8c"
+          }
+        },
+        {
+          "Text": "extends",
+          "IsCorrect": true,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c8d"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65a72cf55fc5e6a030999c89"
+      }
+    },
+    {
+      "Text": "Which collection class is synchronized in Java?",
+      "Responses": [
+        {
+          "Text": "HashMap",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c8f"
+          }
+        },
+        {
+          "Text": "HashSet",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c90"
+          }
+        },
+        {
+          "Text": "ArrayList",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c91"
+          }
+        },
+        {
+          "Text": "Vector",
+          "IsCorrect": true,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c92"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65a72cf55fc5e6a030999c8e"
+      }
+    },
+    {
+      "Text": "What is the default value of a local variable in Java?",
+      "Responses": [
+        {
+          "Text": "0",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c94"
+          }
+        },
+        {
+          "Text": "Null",
+          "IsCorrect": true,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c95"
+          }
+        },
+        {
+          "Text": "Depends on the type of the variable",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c96"
+          }
+        },
+        {
+          "Text": "1",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c97"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65a72cf55fc5e6a030999c93"
+      }
+    },
+    {
+      "Text": "Lequel des éléments suivants n’est pas un concept POO en Java?",
+      "Responses": [
+        {
+          "Text": " Encapsulation",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c99"
+          }
+        },
+        {
+          "Text": "Héritage",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c9a"
+          }
+        },
+        {
+          "Text": "Compilation",
+          "IsCorrect": true,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c9b"
+          }
+        },
+        {
+          "Text": " Polymorphisme",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c9c"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65a72cf55fc5e6a030999c98"
+      }
+    },
+    {
+      "Text": "Quand la surcharge de méthode est-elle déterminée?",
+      "Responses": [
+        {
+          "Text": "rien",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c9e"
+          }
+        },
+        {
+          "Text": "Au moment de l’exécution",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999c9f"
+          }
+        },
+        {
+          "Text": "Au moment de la compilation",
+          "IsCorrect": true,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999ca0"
+          }
+        },
+        {
+          "Text": "Au moment du codage",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999ca1"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65a72cf55fc5e6a030999c9d"
+      }
+    },
+    {
+      "Text": "Comment ça s’appelle si un objet a son propre cycle de vie?",
+      "Responses": [
+        {
+          "Text": "Association",
+          "IsCorrect": true,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999ca3"
+          }
+        },
+        {
+          "Text": "Agrégation",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999ca4"
+          }
+        },
+        {
+          "Text": " Composition",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999ca5"
+          }
+        },
+        {
+          "Text": "Encapsulation",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999ca6"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65a72cf55fc5e6a030999ca2"
+      }
+    },
+    {
+      "Text": "Parmi les propositions suivantes, quelle est la fonctionnalité de l’interpréteur Java?",
+      "Responses": [
+        {
+          "Text": "Il lit le code de haut niveau et l’exécute.",
+          "IsCorrect": true,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999ca8"
+          }
+        },
+        {
+          "Text": "Il effectue la conversion du code octet en code machine.",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999ca9"
+          }
+        },
+        {
+          "Text": "L’interpréteur n’est rien d’autre qu’un compilateur JIT.",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999caa"
+          }
+        },
+        {
+          "Text": "Il agit comme un intermédiaire entre la JVM et le JIT.",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999cab"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65a72cf55fc5e6a030999ca7"
+      }
+    },
+    {
+      "Text": "Lequel des énoncés suivants est correct à propos de JDBC?",
+      "Responses": [
+        {
+          "Text": "L’API JDBC est une API pour accéder à différentes bases de données relationnelles.",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999cad"
+          }
+        },
+        {
+          "Text": "JDBC signifie Java DataBase Connectivity.",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999cae"
+          }
+        },
+        {
+          "Text": "Tout les réponses sont vrais",
+          "IsCorrect": true,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999caf"
+          }
+        },
+        {
+          "Text": "Vous l’utilisez pour accéder à des bases de données relationnelles sans intégrer une dépendance à un type de base de données spécifique dans votre code.",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999cb0"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65a72cf55fc5e6a030999cac"
+      }
+    },
+    {
+      "Text": "Lequel des énoncés suivants est correct à propos de JDBC?",
+      "Responses": [
+        {
+          "Text": "De nouveaux pilotes peuvent être connectés à l’API JDBC sans changer le code client.",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999cb2"
+          }
+        },
+        {
+          "Text": "L’API JDBC fournit l’abstraction et les pilotes JDBC fournissent l’implémentation.",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999cb3"
+          }
+        },
+        {
+          "Text": "Les deux A et B sont vrais.",
+          "IsCorrect": true,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999cb4"
+          }
+        },
+        {
+          "Text": "Aucune de ces réponses n’est vraie.",
+          "IsCorrect": false,
+          "_id": {
+            "$oid": "65a72cf55fc5e6a030999cb5"
+          }
+        }
+      ],
+      "_id": {
+        "$oid": "65a72cf55fc5e6a030999cb1"
+      }
+    }
+  ],
+  "__v": 0
+}]
