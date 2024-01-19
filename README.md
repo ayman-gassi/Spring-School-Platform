@@ -9,6 +9,12 @@ This project was collaboratively developed with my Friend `Zakaria Machmach`
   - Spring Boot
 - **Database:**
   - MongoDB
+  - 
+## Getting Started
+1. Clone this repository :
+```bash
+git clone https://github.com/ayman-gassi/Spring-School-Platform.git
+```
 
 ## Server Setup
 1. Open a new terminal in the `server` folder.
